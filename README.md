@@ -23,8 +23,26 @@
 
 Condições é o *método* para **validar** se uma ***informação*** é verdadeira, caso seja _verdadeira_ a __condição__ ___aplicada___ `if` executa somente o codigo que esta dentro dele, com isso temos condições para que o codigo execute somente o nescessario 
 
-```
-if (valor1 == valor2){
-    MessageBox.Show("Os numeros são iguais")
+```csharp
+if (valor1 == valor2)
+{
+    MessageBox.Show("Os numeros são iguais");
 }
+```
+
+```javascript
+if (valor1 == valor2){
+    console.log("Os numeros são iguais")
+}
+```
+
+```php
+if ($valor1 == $valor2){
+    echo "Os numeros são iguais";
+}
+```
+
+```python
+if valor1 == $valor2:
+    print("Os numeros são iguais"
 ```
