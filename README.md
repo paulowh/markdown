@@ -1,25 +1,21 @@
 # Registro C#
 > Autor: Paulo Santos
 
+<!-- tem 6 niveis de titulos -->
 ## Variaveis
 > as variaveis são espaços de memorias que tem como objetivo guardar/amarzenar informações 
-<!-- tem 6 niveis de titulos -->
-### Numeros
-- int
+
+1. Numeros
+    - int
     - double
-        - float
+    - float
+1. Textos
+    * string
+    * char
+1. Booleanos
+    + bool
+1. Listas
+    + List<>
+    + int[]
 
-
-### Textos
-1. string
-1. char
-2. char
-1. char
-
-Booleanos
-bool
-
-Listas
-List<>
-int[]
 
