@@ -18,4 +18,7 @@
     + List<>
     + int[]
 
+## Condições
+> if, switch, ternarios 
 
+Condições é o *método* para **validar** se uma ***informação*** é verdadeira, caso seja _verdadeira_ a __condição__ ___aplicada___ `if` executa somente o codigo que esta dentro dele, com isso temos condições para que o codigo execute somente o nescessario 
