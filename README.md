@@ -30,19 +30,16 @@ if (valor1 == valor2)
 }
 ```
 
-```javascript
-if (valor1 == valor2){
-    console.log("Os numeros são iguais")
-}
-```
+[Saiba Mais sobre C#](https://learnxinyminutes.com/pt-br/csharp/)
 
-```php
-if ($valor1 == $valor2){
-    echo "Os numeros são iguais";
-}
-```
+![Imagem logo C#](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/960px-C_Sharp_Logo_2023.svg.png)
 
-```python
-if valor1 == $valor2:
-    print("Os numeros são iguais"
-```
+Amazon Alexa	![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+
+![My Skills](https://skillicons.dev/icons?i=html,css,mysql,bootstrap,cs,javascript,vscode,visualstudio,markdown,figma,arduino,azure,blender,express,github,php,instagram&perline=6)
+
+
+![ReScript](https://img.shields.io/badge/c%23-%ff0000?style=for-the-badge&logo=csharp&logoColor=ff0000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=dark)
